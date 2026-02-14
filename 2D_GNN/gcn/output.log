@@ -1,0 +1,206 @@
+Epoch 1/180, Train RMSE: 0.4469, Test RMSE: 0.3526
+Epoch 2/180, Train RMSE: 0.2844, Test RMSE: 0.2535
+Epoch 3/180, Train RMSE: 0.2483, Test RMSE: 0.2340
+Epoch 4/180, Train RMSE: 0.2312, Test RMSE: 0.2522
+Epoch 5/180, Train RMSE: 0.2191, Test RMSE: 0.2115
+Epoch 6/180, Train RMSE: 0.2112, Test RMSE: 0.2021
+Epoch 7/180, Train RMSE: 0.2045, Test RMSE: 0.2175
+Epoch 8/180, Train RMSE: 0.1999, Test RMSE: 0.1948
+Epoch 9/180, Train RMSE: 0.1896, Test RMSE: 0.2016
+Epoch 10/180, Train RMSE: 0.1858, Test RMSE: 0.1740
+Epoch 11/180, Train RMSE: 0.1842, Test RMSE: 0.1746
+Epoch 12/180, Train RMSE: 0.1794, Test RMSE: 0.1603
+Epoch 13/180, Train RMSE: 0.1746, Test RMSE: 0.1595
+Epoch 14/180, Train RMSE: 0.1747, Test RMSE: 0.1703
+Epoch 15/180, Train RMSE: 0.1704, Test RMSE: 0.1637
+Epoch 16/180, Train RMSE: 0.1715, Test RMSE: 0.1662
+Epoch 17/180, Train RMSE: 0.1686, Test RMSE: 0.1924
+Epoch 18/180, Train RMSE: 0.1642, Test RMSE: 0.1503
+Epoch 19/180, Train RMSE: 0.1624, Test RMSE: 0.1521
+Epoch 20/180, Train RMSE: 0.1621, Test RMSE: 0.1482
+Epoch 21/180, Train RMSE: 0.1587, Test RMSE: 0.1504
+Epoch 22/180, Train RMSE: 0.1583, Test RMSE: 0.1500
+Epoch 23/180, Train RMSE: 0.1572, Test RMSE: 0.1516
+Epoch 24/180, Train RMSE: 0.1542, Test RMSE: 0.1631
+Epoch 25/180, Train RMSE: 0.1550, Test RMSE: 0.1376
+Epoch 26/180, Train RMSE: 0.1545, Test RMSE: 0.1416
+Epoch 27/180, Train RMSE: 0.1504, Test RMSE: 0.1553
+Epoch 28/180, Train RMSE: 0.1496, Test RMSE: 0.1396
+Epoch 29/180, Train RMSE: 0.1488, Test RMSE: 0.1493
+Epoch 30/180, Train RMSE: 0.1485, Test RMSE: 0.1456
+Epoch 31/180, Train RMSE: 0.1474, Test RMSE: 0.1335
+Epoch 32/180, Train RMSE: 0.1480, Test RMSE: 0.1406
+Epoch 33/180, Train RMSE: 0.1460, Test RMSE: 0.1578
+Epoch 34/180, Train RMSE: 0.1443, Test RMSE: 0.1379
+Epoch 35/180, Train RMSE: 0.1441, Test RMSE: 0.1478
+Epoch 36/180, Train RMSE: 0.1432, Test RMSE: 0.1383
+Epoch 37/180, Train RMSE: 0.1430, Test RMSE: 0.1420
+Epoch 38/180, Train RMSE: 0.1406, Test RMSE: 0.1329
+Epoch 39/180, Train RMSE: 0.1398, Test RMSE: 0.1281
+Epoch 40/180, Train RMSE: 0.1411, Test RMSE: 0.1384
+Epoch 41/180, Train RMSE: 0.1394, Test RMSE: 0.1381
+Epoch 42/180, Train RMSE: 0.1397, Test RMSE: 0.1306
+Epoch 43/180, Train RMSE: 0.1361, Test RMSE: 0.1424
+Epoch 44/180, Train RMSE: 0.1387, Test RMSE: 0.1291
+Epoch 45/180, Train RMSE: 0.1365, Test RMSE: 0.1383
+Epoch 46/180, Train RMSE: 0.1372, Test RMSE: 0.1273
+Epoch 47/180, Train RMSE: 0.1346, Test RMSE: 0.1433
+Epoch 48/180, Train RMSE: 0.1346, Test RMSE: 0.1578
+Epoch 49/180, Train RMSE: 0.1349, Test RMSE: 0.1306
+Epoch 50/180, Train RMSE: 0.1351, Test RMSE: 0.1248
+Epoch 51/180, Train RMSE: 0.1343, Test RMSE: 0.1437
+Epoch 52/180, Train RMSE: 0.1325, Test RMSE: 0.1395
+Epoch 53/180, Train RMSE: 0.1338, Test RMSE: 0.1332
+Epoch 54/180, Train RMSE: 0.1327, Test RMSE: 0.1241
+Epoch 55/180, Train RMSE: 0.1328, Test RMSE: 0.1431
+Epoch 56/180, Train RMSE: 0.1313, Test RMSE: 0.1215
+Epoch 57/180, Train RMSE: 0.1322, Test RMSE: 0.1408
+Epoch 58/180, Train RMSE: 0.1304, Test RMSE: 0.1279
+Epoch 59/180, Train RMSE: 0.1308, Test RMSE: 0.1214
+Epoch 60/180, Train RMSE: 0.1297, Test RMSE: 0.1279
+Epoch 61/180, Train RMSE: 0.1294, Test RMSE: 0.1214
+Epoch 62/180, Train RMSE: 0.1295, Test RMSE: 0.1343
+Epoch 63/180, Train RMSE: 0.1285, Test RMSE: 0.1252
+Epoch 64/180, Train RMSE: 0.1291, Test RMSE: 0.1193
+Epoch 65/180, Train RMSE: 0.1285, Test RMSE: 0.1242
+Epoch 66/180, Train RMSE: 0.1292, Test RMSE: 0.1280
+Epoch 67/180, Train RMSE: 0.1271, Test RMSE: 0.1218
+Epoch 68/180, Train RMSE: 0.1291, Test RMSE: 0.1326
+Epoch 69/180, Train RMSE: 0.1278, Test RMSE: 0.1267
+Epoch 70/180, Train RMSE: 0.1255, Test RMSE: 0.1233
+Epoch 71/180, Train RMSE: 0.1282, Test RMSE: 0.1302
+Epoch 72/180, Train RMSE: 0.1260, Test RMSE: 0.1218
+Epoch 73/180, Train RMSE: 0.1263, Test RMSE: 0.1244
+Epoch 74/180, Train RMSE: 0.1257, Test RMSE: 0.1273
+Epoch 75/180, Train RMSE: 0.1255, Test RMSE: 0.1212
+Epoch 76/180, Train RMSE: 0.1260, Test RMSE: 0.1204
+Epoch 77/180, Train RMSE: 0.1251, Test RMSE: 0.1186
+Epoch 78/180, Train RMSE: 0.1242, Test RMSE: 0.1299
+Epoch 79/180, Train RMSE: 0.1246, Test RMSE: 0.1212
+Epoch 80/180, Train RMSE: 0.1250, Test RMSE: 0.1197
+Epoch 81/180, Train RMSE: 0.1239, Test RMSE: 0.1216
+Epoch 82/180, Train RMSE: 0.1238, Test RMSE: 0.1325
+Epoch 83/180, Train RMSE: 0.1223, Test RMSE: 0.1247
+Epoch 84/180, Train RMSE: 0.1229, Test RMSE: 0.1207
+Epoch 85/180, Train RMSE: 0.1230, Test RMSE: 0.1203
+Epoch 86/180, Train RMSE: 0.1227, Test RMSE: 0.1186
+Epoch 87/180, Train RMSE: 0.1236, Test RMSE: 0.1201
+Epoch 88/180, Train RMSE: 0.1212, Test RMSE: 0.1218
+Epoch 89/180, Train RMSE: 0.1218, Test RMSE: 0.1246
+Epoch 90/180, Train RMSE: 0.1218, Test RMSE: 0.1185
+Epoch 91/180, Train RMSE: 0.1231, Test RMSE: 0.1165
+Epoch 92/180, Train RMSE: 0.1208, Test RMSE: 0.1176
+Epoch 93/180, Train RMSE: 0.1231, Test RMSE: 0.1169
+Epoch 94/180, Train RMSE: 0.1199, Test RMSE: 0.1157
+Epoch 95/180, Train RMSE: 0.1212, Test RMSE: 0.1188
+Epoch 96/180, Train RMSE: 0.1207, Test RMSE: 0.1158
+Epoch 97/180, Train RMSE: 0.1207, Test RMSE: 0.1161
+Epoch 98/180, Train RMSE: 0.1194, Test RMSE: 0.1195
+Epoch 99/180, Train RMSE: 0.1201, Test RMSE: 0.1234
+Epoch 100/180, Train RMSE: 0.1204, Test RMSE: 0.1306
+Epoch 101/180, Train RMSE: 0.1188, Test RMSE: 0.1198
+Epoch 102/180, Train RMSE: 0.1195, Test RMSE: 0.1334
+Epoch 103/180, Train RMSE: 0.1195, Test RMSE: 0.1171
+Epoch 104/180, Train RMSE: 0.1200, Test RMSE: 0.1123
+Epoch 105/180, Train RMSE: 0.1188, Test RMSE: 0.1159
+Epoch 106/180, Train RMSE: 0.1202, Test RMSE: 0.1138
+Epoch 107/180, Train RMSE: 0.1181, Test RMSE: 0.1140
+Epoch 108/180, Train RMSE: 0.1190, Test RMSE: 0.1172
+Epoch 109/180, Train RMSE: 0.1180, Test RMSE: 0.1255
+Epoch 110/180, Train RMSE: 0.1183, Test RMSE: 0.1136
+Epoch 111/180, Train RMSE: 0.1187, Test RMSE: 0.1110
+Epoch 112/180, Train RMSE: 0.1179, Test RMSE: 0.1126
+Epoch 113/180, Train RMSE: 0.1176, Test RMSE: 0.1173
+Epoch 114/180, Train RMSE: 0.1173, Test RMSE: 0.1161
+Epoch 115/180, Train RMSE: 0.1166, Test RMSE: 0.1191
+Epoch 116/180, Train RMSE: 0.1170, Test RMSE: 0.1118
+Epoch 117/180, Train RMSE: 0.1163, Test RMSE: 0.1105
+Epoch 118/180, Train RMSE: 0.1170, Test RMSE: 0.1147
+Epoch 119/180, Train RMSE: 0.1172, Test RMSE: 0.1138
+Epoch 120/180, Train RMSE: 0.1163, Test RMSE: 0.1119
+Epoch 121/180, Train RMSE: 0.1164, Test RMSE: 0.1112
+Epoch 122/180, Train RMSE: 0.1155, Test RMSE: 0.1116
+Epoch 123/180, Train RMSE: 0.1167, Test RMSE: 0.1114
+Epoch 124/180, Train RMSE: 0.1158, Test RMSE: 0.1236
+Epoch 125/180, Train RMSE: 0.1156, Test RMSE: 0.1107
+Epoch 126/180, Train RMSE: 0.1161, Test RMSE: 0.1147
+Epoch 127/180, Train RMSE: 0.1154, Test RMSE: 0.1178
+Epoch 128/180, Train RMSE: 0.1159, Test RMSE: 0.1094
+Epoch 129/180, Train RMSE: 0.1151, Test RMSE: 0.1097
+Epoch 130/180, Train RMSE: 0.1158, Test RMSE: 0.1120
+Epoch 131/180, Train RMSE: 0.1143, Test RMSE: 0.1089
+Epoch 132/180, Train RMSE: 0.1150, Test RMSE: 0.1164
+Epoch 133/180, Train RMSE: 0.1149, Test RMSE: 0.1143
+Epoch 134/180, Train RMSE: 0.1150, Test RMSE: 0.1132
+Epoch 135/180, Train RMSE: 0.1146, Test RMSE: 0.1155
+Epoch 136/180, Train RMSE: 0.1149, Test RMSE: 0.1136
+Epoch 137/180, Train RMSE: 0.1140, Test RMSE: 0.1096
+Epoch 138/180, Train RMSE: 0.1145, Test RMSE: 0.1202
+Epoch 139/180, Train RMSE: 0.1134, Test RMSE: 0.1111
+Epoch 140/180, Train RMSE: 0.1140, Test RMSE: 0.1094
+Epoch 141/180, Train RMSE: 0.1134, Test RMSE: 0.1201
+Epoch 142/180, Train RMSE: 0.1142, Test RMSE: 0.1096
+Epoch 143/180, Train RMSE: 0.1132, Test RMSE: 0.1146
+Epoch 144/180, Train RMSE: 0.1133, Test RMSE: 0.1116
+Epoch 145/180, Train RMSE: 0.1137, Test RMSE: 0.1170
+Epoch 146/180, Train RMSE: 0.1139, Test RMSE: 0.1102
+Epoch 147/180, Train RMSE: 0.1129, Test RMSE: 0.1111
+Epoch 148/180, Train RMSE: 0.1127, Test RMSE: 0.1104
+Epoch 149/180, Train RMSE: 0.1129, Test RMSE: 0.1131
+Epoch 150/180, Train RMSE: 0.1122, Test RMSE: 0.1088
+Epoch 151/180, Train RMSE: 0.1128, Test RMSE: 0.1199
+Epoch 152/180, Train RMSE: 0.1128, Test RMSE: 0.1116
+Epoch 153/180, Train RMSE: 0.1135, Test RMSE: 0.1148
+Epoch 154/180, Train RMSE: 0.1121, Test RMSE: 0.1149
+Epoch 155/180, Train RMSE: 0.1125, Test RMSE: 0.1129
+Epoch 156/180, Train RMSE: 0.1127, Test RMSE: 0.1151
+/home/a4724/sandeep/qm9_epi/cals_with_new_data/gcn/with_hpo_pms/time_c/gcn.py:192: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  model.load_state_dict(torch.load("models/best_model.pth"))
+Epoch 157/180, Train RMSE: 0.1128, Test RMSE: 0.1088
+Epoch 158/180, Train RMSE: 0.1116, Test RMSE: 0.1164
+Epoch 159/180, Train RMSE: 0.1118, Test RMSE: 0.1167
+Epoch 160/180, Train RMSE: 0.1120, Test RMSE: 0.1076
+Epoch 161/180, Train RMSE: 0.1118, Test RMSE: 0.1092
+Epoch 162/180, Train RMSE: 0.1114, Test RMSE: 0.1102
+Epoch 163/180, Train RMSE: 0.1118, Test RMSE: 0.1062
+Epoch 164/180, Train RMSE: 0.1114, Test RMSE: 0.1161
+Epoch 165/180, Train RMSE: 0.1118, Test RMSE: 0.1100
+Epoch 166/180, Train RMSE: 0.1112, Test RMSE: 0.1169
+Epoch 167/180, Train RMSE: 0.1116, Test RMSE: 0.1140
+Epoch 168/180, Train RMSE: 0.1109, Test RMSE: 0.1248
+Epoch 169/180, Train RMSE: 0.1107, Test RMSE: 0.1123
+Epoch 170/180, Train RMSE: 0.1111, Test RMSE: 0.1120
+Epoch 171/180, Train RMSE: 0.1112, Test RMSE: 0.1109
+Epoch 172/180, Train RMSE: 0.1102, Test RMSE: 0.1148
+Epoch 173/180, Train RMSE: 0.1105, Test RMSE: 0.1122
+Epoch 174/180, Train RMSE: 0.1098, Test RMSE: 0.1146
+Epoch 175/180, Train RMSE: 0.1104, Test RMSE: 0.1095
+Epoch 176/180, Train RMSE: 0.1108, Test RMSE: 0.1107
+Epoch 177/180, Train RMSE: 0.1099, Test RMSE: 0.1115
+Epoch 178/180, Train RMSE: 0.1106, Test RMSE: 0.1129
+Epoch 179/180, Train RMSE: 0.1099, Test RMSE: 0.1133
+Epoch 180/180, Train RMSE: 0.1097, Test RMSE: 0.1114
+
+📘 Final Performance Metrics
+--------------------------------------------------
+Log Scale Evaluation (model output space)
+Train MAE   : 0.0752
+Test  MAE   : 0.0774
+Train MSE   : 0.0110
+Test  MSE   : 0.0113
+Train RMSE  : 0.1049
+Test  RMSE  : 0.1062
+Train R²    : 0.9733
+Test  R²    : 0.9726
+--------------------------------------------------
+Original Scale Evaluation (after exp transform)
+Train MAE   : 0.0023
+Test  MAE   : 0.0024
+Train MSE   : 0.0000
+Test  MSE   : 0.0000
+Train RMSE  : 0.0041
+Test  RMSE  : 0.0042
+Train R²    : 0.9587
+Test  R²    : 0.9571
+--------------------------------------------------
+Execution time: 47.68 minutes
