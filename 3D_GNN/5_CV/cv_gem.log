@@ -1,0 +1,98 @@
+Graphs built: 133725, Failed: 0
+
+FOLD 1 --------------------------
+  Epoch 10: Train RMSE 0.1184 | Val RMSE 0.1194
+  Epoch 20: Train RMSE 0.0852 | Val RMSE 0.0914
+  Epoch 30: Train RMSE 0.0733 | Val RMSE 0.0749
+  Epoch 40: Train RMSE 0.0605 | Val RMSE 0.0728
+  Epoch 50: Train RMSE 0.0554 | Val RMSE 0.0811
+  Epoch 60: Train RMSE 0.0520 | Val RMSE 0.0639
+  Epoch 70: Train RMSE 0.0499 | Val RMSE 0.0631
+  Epoch 80: Train RMSE 0.0467 | Val RMSE 0.0649
+  Epoch 90: Train RMSE 0.0447 | Val RMSE 0.0659
+  Epoch 100: Train RMSE 0.0448 | Val RMSE 0.0645
+  Epoch 110: Train RMSE 0.0417 | Val RMSE 0.0576
+  Early stopping triggered.
+  Fold 1 log:      RMSE=0.0588, MAE=0.0395, MSE=0.0035, R2=0.9916
+  Fold 1 original: RMSE=0.0026, MAE=0.0012, MSE=0.0000, R2=0.9840
+
+FOLD 2 --------------------------
+  Epoch 10: Train RMSE 0.1128 | Val RMSE 0.1115
+  Epoch 20: Train RMSE 0.0814 | Val RMSE 0.0835
+  Epoch 30: Train RMSE 0.0659 | Val RMSE 0.0751
+  Epoch 40: Train RMSE 0.0635 | Val RMSE 0.0712
+  Epoch 50: Train RMSE 0.0548 | Val RMSE 0.0699
+  Epoch 60: Train RMSE 0.0501 | Val RMSE 0.0744
+  Epoch 70: Train RMSE 0.0477 | Val RMSE 0.0622
+  Epoch 80: Train RMSE 0.0455 | Val RMSE 0.0634
+  Epoch 90: Train RMSE 0.0438 | Val RMSE 0.0624
+  Epoch 100: Train RMSE 0.0428 | Val RMSE 0.0600
+  Epoch 110: Train RMSE 0.0420 | Val RMSE 0.0585
+  Epoch 120: Train RMSE 0.0411 | Val RMSE 0.0656
+  Epoch 130: Train RMSE 0.0411 | Val RMSE 0.0667
+  Epoch 140: Train RMSE 0.0382 | Val RMSE 0.0598
+  Epoch 150: Train RMSE 0.0388 | Val RMSE 0.0605
+  Epoch 160: Train RMSE 0.0384 | Val RMSE 0.0563
+  Epoch 170: Train RMSE 0.0377 | Val RMSE 0.0550
+  Early stopping triggered.
+  Fold 2 log:      RMSE=0.0566, MAE=0.0378, MSE=0.0032, R2=0.9922
+  Fold 2 original: RMSE=0.0024, MAE=0.0012, MSE=0.0000, R2=0.9850
+
+FOLD 3 --------------------------
+  Epoch 10: Train RMSE 0.1126 | Val RMSE 0.1141
+  Epoch 20: Train RMSE 0.0804 | Val RMSE 0.0920
+  Epoch 30: Train RMSE 0.0740 | Val RMSE 0.0750
+  Epoch 40: Train RMSE 0.0612 | Val RMSE 0.0716
+  Epoch 50: Train RMSE 0.0581 | Val RMSE 0.0715
+  Epoch 60: Train RMSE 0.0505 | Val RMSE 0.0700
+  Epoch 70: Train RMSE 0.0542 | Val RMSE 0.0660
+  Epoch 80: Train RMSE 0.0470 | Val RMSE 0.0633
+  Epoch 90: Train RMSE 0.0466 | Val RMSE 0.0663
+  Early stopping triggered.
+  Fold 3 log:      RMSE=0.0624, MAE=0.0418, MSE=0.0039, R2=0.9906
+  Fold 3 original: RMSE=0.0029, MAE=0.0013, MSE=0.0000, R2=0.9797
+
+FOLD 4 --------------------------
+  Epoch 10: Train RMSE 0.1118 | Val RMSE 0.1025
+  Epoch 20: Train RMSE 0.0797 | Val RMSE 0.0825
+  Epoch 30: Train RMSE 0.0660 | Val RMSE 0.0766
+  Epoch 40: Train RMSE 0.0590 | Val RMSE 0.0686
+  Epoch 50: Train RMSE 0.0540 | Val RMSE 0.0703
+  Epoch 60: Train RMSE 0.0506 | Val RMSE 0.0608
+  Epoch 70: Train RMSE 0.0486 | Val RMSE 0.0639
+  Epoch 80: Train RMSE 0.0466 | Val RMSE 0.0633
+  Epoch 90: Train RMSE 0.0455 | Val RMSE 0.0598
+  Epoch 100: Train RMSE 0.0435 | Val RMSE 0.0644
+  Epoch 110: Train RMSE 0.0429 | Val RMSE 0.0617
+  Early stopping triggered.
+  Fold 4 log:      RMSE=0.0594, MAE=0.0404, MSE=0.0035, R2=0.9913
+  Fold 4 original: RMSE=0.0027, MAE=0.0012, MSE=0.0000, R2=0.9816
+
+FOLD 5 --------------------------
+  Epoch 10: Train RMSE 0.1124 | Val RMSE 0.1231
+  Epoch 20: Train RMSE 0.0814 | Val RMSE 0.0860
+  Epoch 30: Train RMSE 0.0684 | Val RMSE 0.0773
+  Epoch 40: Train RMSE 0.0611 | Val RMSE 0.0694
+  Epoch 50: Train RMSE 0.0554 | Val RMSE 0.0641
+  Epoch 60: Train RMSE 0.0520 | Val RMSE 0.0635
+  Epoch 70: Train RMSE 0.0499 | Val RMSE 0.0638
+  Epoch 80: Train RMSE 0.0509 | Val RMSE 0.0700
+  Epoch 90: Train RMSE 0.0480 | Val RMSE 0.0636
+  Epoch 100: Train RMSE 0.0454 | Val RMSE 0.0741
+  Epoch 110: Train RMSE 0.0444 | Val RMSE 0.0630
+  Epoch 120: Train RMSE 0.0428 | Val RMSE 0.0600
+  Epoch 130: Train RMSE 0.0422 | Val RMSE 0.0579
+  Epoch 140: Train RMSE 0.0409 | Val RMSE 0.0584
+  Early stopping triggered.
+  Fold 5 log:      RMSE=0.0605, MAE=0.0422, MSE=0.0037, R2=0.9911
+  Fold 5 original: RMSE=0.0025, MAE=0.0013, MSE=0.0000, R2=0.9849
+
+Final 5-Fold Cross-Validation Results (mean ± std):
+RMSE_LOG  : 0.0595 ± 0.0019 (log scale)
+MAE_LOG   : 0.0403 ± 0.0016 (log scale)
+MSE_LOG   : 0.0035 ± 0.0002 (log scale)
+R2_LOG    : 0.9914 ± 0.0005 (log scale)
+RMSE_ORIG : 0.0026 ± 0.0002 (original scale)
+MAE_ORIG  : 0.0013 ± 0.0000 (original scale)
+MSE_ORIG  : 0.0000 ± 0.0000 (original scale)
+R2_ORIG   : 0.9830 ± 0.0021 (original scale)

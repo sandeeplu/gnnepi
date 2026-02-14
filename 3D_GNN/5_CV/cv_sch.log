@@ -1,0 +1,101 @@
+Successfully embedded 133725 molecules.
+Failed to embed 0 molecules.
+
+FOLD 1 ----------------------------
+Epoch 001: Train RMSE=0.4851, Val RMSE=0.3330
+Epoch 011: Train RMSE=0.0968, Val RMSE=0.0905
+Epoch 021: Train RMSE=0.0774, Val RMSE=0.0741
+Epoch 031: Train RMSE=0.0682, Val RMSE=0.0719
+Epoch 041: Train RMSE=0.0619, Val RMSE=0.0669
+Epoch 051: Train RMSE=0.0584, Val RMSE=0.0676
+Epoch 061: Train RMSE=0.0569, Val RMSE=0.0646
+Epoch 071: Train RMSE=0.0544, Val RMSE=0.0695
+Epoch 081: Train RMSE=0.0529, Val RMSE=0.0659
+Epoch 091: Train RMSE=0.0522, Val RMSE=0.0594
+Early stopping triggered.
+Fold 1 metrics (log)  RMSE=0.0729, MAE=0.0552, R2=0.9871
+Fold 1 metrics (orig) RMSE=0.0030, MAE=0.0017, R2=0.9780
+Fold 1 completed in 11916.80 seconds.
+
+FOLD 2 ----------------------------
+Epoch 001: Train RMSE=0.5905, Val RMSE=0.4066
+Epoch 011: Train RMSE=0.1345, Val RMSE=0.1678
+Epoch 021: Train RMSE=0.1044, Val RMSE=0.1999
+Epoch 031: Train RMSE=0.0917, Val RMSE=0.0862
+Epoch 041: Train RMSE=0.0853, Val RMSE=0.0983
+Epoch 051: Train RMSE=0.0809, Val RMSE=0.0766
+Epoch 061: Train RMSE=0.0819, Val RMSE=0.0734
+Epoch 071: Train RMSE=0.0784, Val RMSE=0.0653
+Epoch 081: Train RMSE=0.0768, Val RMSE=0.0748
+Epoch 091: Train RMSE=0.0735, Val RMSE=0.0824
+Early stopping triggered.
+Fold 2 metrics (log)  RMSE=0.0718, MAE=0.0544, R2=0.9875
+Fold 2 metrics (orig) RMSE=0.0028, MAE=0.0017, R2=0.9798
+Fold 2 completed in 12155.73 seconds.
+
+FOLD 3 ----------------------------
+Epoch 001: Train RMSE=0.6700, Val RMSE=0.2708
+Epoch 011: Train RMSE=0.0997, Val RMSE=0.1106
+Epoch 021: Train RMSE=0.0763, Val RMSE=0.0774
+Epoch 031: Train RMSE=0.0664, Val RMSE=0.0857
+Epoch 041: Train RMSE=0.0614, Val RMSE=0.0689
+Epoch 051: Train RMSE=0.0570, Val RMSE=0.0633
+Epoch 061: Train RMSE=0.0541, Val RMSE=0.0670
+Epoch 071: Train RMSE=0.0524, Val RMSE=0.0602
+Epoch 081: Train RMSE=0.0505, Val RMSE=0.0687
+Epoch 091: Train RMSE=0.0497, Val RMSE=0.0633
+Epoch 101: Train RMSE=0.0490, Val RMSE=0.0611
+Epoch 111: Train RMSE=0.0481, Val RMSE=0.0613
+Epoch 121: Train RMSE=0.0478, Val RMSE=0.0580
+Epoch 131: Train RMSE=0.0466, Val RMSE=0.0577
+Epoch 141: Train RMSE=0.0461, Val RMSE=0.0589
+Epoch 151: Train RMSE=0.0457, Val RMSE=0.0575
+Early stopping triggered.
+Fold 3 metrics (log)  RMSE=0.0554, MAE=0.0387, R2=0.9926
+Fold 3 metrics (orig) RMSE=0.0024, MAE=0.0012, R2=0.9863
+Fold 3 completed in 17497.84 seconds.
+
+FOLD 4 ----------------------------
+Epoch 001: Train RMSE=0.8617, Val RMSE=0.2204
+Epoch 011: Train RMSE=0.1119, Val RMSE=0.1027
+Epoch 021: Train RMSE=0.0887, Val RMSE=0.1008
+Epoch 031: Train RMSE=0.0769, Val RMSE=0.0896
+Epoch 041: Train RMSE=0.0723, Val RMSE=0.0825
+Epoch 051: Train RMSE=0.0688, Val RMSE=0.0825
+Epoch 061: Train RMSE=0.0647, Val RMSE=0.0732
+Epoch 071: Train RMSE=0.0619, Val RMSE=0.0656
+Epoch 081: Train RMSE=0.0604, Val RMSE=0.1126
+Epoch 091: Train RMSE=0.0584, Val RMSE=0.0618
+Early stopping triggered.
+Fold 4 metrics (log)  RMSE=0.0735, MAE=0.0550, R2=0.9867
+Fold 4 metrics (orig) RMSE=0.0027, MAE=0.0015, R2=0.9813
+Fold 4 completed in 11100.88 seconds.
+
+FOLD 5 ----------------------------
+Epoch 001: Train RMSE=0.5461, Val RMSE=0.2768
+Epoch 011: Train RMSE=0.1127, Val RMSE=0.1409
+Epoch 021: Train RMSE=0.0853, Val RMSE=0.0816
+Epoch 031: Train RMSE=0.0724, Val RMSE=0.0716
+Epoch 041: Train RMSE=0.0669, Val RMSE=0.0684
+Epoch 051: Train RMSE=0.0621, Val RMSE=0.0726
+Epoch 061: Train RMSE=0.0588, Val RMSE=0.0604
+Epoch 071: Train RMSE=0.0563, Val RMSE=0.0609
+Epoch 081: Train RMSE=0.0541, Val RMSE=0.0628
+Epoch 091: Train RMSE=0.0527, Val RMSE=0.0591
+Epoch 101: Train RMSE=0.0517, Val RMSE=0.0625
+Early stopping triggered.
+Fold 5 metrics (log)  RMSE=0.0613, MAE=0.0431, R2=0.9909
+Fold 5 metrics (orig) RMSE=0.0024, MAE=0.0013, R2=0.9861
+Fold 5 completed in 11712.32 seconds.
+
+Final 5-Fold Cross Validation Results (mean ± std):
+RMSE_LOG  : 0.0670 ± 0.0073 (log scale)
+MAE_LOG   : 0.0493 ± 0.0070 (log scale)
+MSE_LOG   : 0.0045 ± 0.0009 (log scale)
+R2_LOG    : 0.9890 ± 0.0024 (log scale)
+RMSE_ORIG : 0.0027 ± 0.0002 (original scale)
+MAE_ORIG  : 0.0015 ± 0.0002 (original scale)
+MSE_ORIG  : 0.0000 ± 0.0000 (original scale)
+R2_ORIG   : 0.9823 ± 0.0034 (original scale)
+
+Total runtime: 64383.58 seconds
