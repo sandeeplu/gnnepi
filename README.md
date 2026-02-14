@@ -1,4 +1,4 @@
-Graph Neural Networks for Electrophilicity Index Prediction
+**Graph Neural Networks for Electrophilicity Index Prediction**
 
 This repository contains the code associated with the manuscript. In this manuscript, we compare 3D molecular geometry models (SchNet,ALIGNN, GemNet), which account for the full atomic structure, with connectivitybased
 2D models (Attentive FP, GCN, GraphSAGE, GIN, GINE, GATv2) that consider only molecular topology. These GNNS models are trained for Electrophilicity Index Prediction on the QM9 dataset.
