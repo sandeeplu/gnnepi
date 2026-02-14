@@ -6,6 +6,9 @@ This repository contains the code associated with the manuscript. In this manusc
 The data for training the models are taken from QM9:
 https://quantum-machine.org/datasets/
 
+For all XYZ files:
+wget https://ndownloader.figshare.com/files/3195389 -O dsgdb9nsd.xyz.tar.bz2
+
 The libraries required for running the code are :
 Data analysis (Pandas, Matplotlib/Seaborn, RDKit)
 Generate graphs from SMILES (Pytorch Geometric)
