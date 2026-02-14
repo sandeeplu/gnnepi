@@ -1,0 +1,94 @@
+[I 2025-08-11 17:18:44,423] A new study created in RDB with name: hyperparameter-tune-gsage
+[I 2025-08-11 17:25:12,267] Trial 0 finished with value: 0.7870724198443176 and parameters: {'lr': 1e-05, 'weight_decay': 1e-05, 'dropout': 0.30000000000000004, 'hidden_channels': 128, 'num_layers': 5, 'batch_size': 32, 'epochs': 240}. Best is trial 0 with value: 0.7870724198443176.
+[I 2025-08-11 17:39:52,791] Trial 1 finished with value: 0.16680215317998176 and parameters: {'lr': 0.0001, 'weight_decay': 1e-05, 'dropout': 0.30000000000000004, 'hidden_channels': 64, 'num_layers': 4, 'batch_size': 96, 'epochs': 180}. Best is trial 1 with value: 0.16680215317998176.
+[I 2025-08-11 17:55:10,172] Trial 2 finished with value: 0.11594196656072668 and parameters: {'lr': 0.001, 'weight_decay': 1e-05, 'dropout': 0.2, 'hidden_channels': 64, 'num_layers': 6, 'batch_size': 128, 'epochs': 120}. Best is trial 2 with value: 0.11594196656072668.
+[I 2025-08-11 19:04:14,209] Trial 3 finished with value: 0.08880422793266349 and parameters: {'lr': 0.0001, 'weight_decay': 1e-06, 'dropout': 0.1, 'hidden_channels': 128, 'num_layers': 5, 'batch_size': 64, 'epochs': 240}. Best is trial 3 with value: 0.08880422793266349.
+[I 2025-08-11 19:16:33,773] Trial 4 finished with value: 0.12449401654832029 and parameters: {'lr': 0.001, 'weight_decay': 1e-06, 'dropout': 0.5, 'hidden_channels': 192, 'num_layers': 6, 'batch_size': 128, 'epochs': 300}. Best is trial 3 with value: 0.08880422793266349.
+[I 2025-08-11 19:18:15,577] Trial 5 pruned. 
+[I 2025-08-11 19:19:55,817] Trial 6 pruned. 
+[I 2025-08-11 19:25:23,178] Trial 7 pruned. 
+[I 2025-08-11 19:26:00,984] Trial 8 pruned. 
+[I 2025-08-11 19:27:02,055] Trial 9 pruned. 
+[I 2025-08-11 19:27:42,142] Trial 10 pruned. 
+[I 2025-08-11 19:47:11,036] Trial 11 pruned. 
+[I 2025-08-11 20:08:45,850] Trial 12 finished with value: 0.11119651125377851 and parameters: {'lr': 0.001, 'weight_decay': 1e-05, 'dropout': 0.1, 'hidden_channels': 64, 'num_layers': 5, 'batch_size': 64, 'epochs': 240}. Best is trial 3 with value: 0.08880422793266349.
+[I 2025-08-11 20:30:44,956] Trial 13 finished with value: 0.10032934032631477 and parameters: {'lr': 0.001, 'weight_decay': 1e-05, 'dropout': 0.1, 'hidden_channels': 128, 'num_layers': 5, 'batch_size': 64, 'epochs': 240}. Best is trial 3 with value: 0.08880422793266349.
+[I 2025-08-11 20:46:47,149] Trial 14 finished with value: 0.09584650179411068 and parameters: {'lr': 0.001, 'weight_decay': 1e-06, 'dropout': 0.1, 'hidden_channels': 192, 'num_layers': 5, 'batch_size': 64, 'epochs': 240}. Best is trial 3 with value: 0.08880422793266349.
+[I 2025-08-11 20:47:24,582] Trial 15 pruned. 
+[I 2025-08-11 21:06:08,774] Trial 16 finished with value: 0.08823236149847585 and parameters: {'lr': 0.001, 'weight_decay': 1e-06, 'dropout': 0.0, 'hidden_channels': 192, 'num_layers': 5, 'batch_size': 96, 'epochs': 240}. Best is trial 16 with value: 0.08823236149847585.
+[I 2025-08-11 21:07:24,275] Trial 17 pruned. 
+[I 2025-08-11 21:08:20,025] Trial 18 pruned. 
+[I 2025-08-11 21:08:58,486] Trial 19 pruned. 
+[I 2025-08-11 21:14:21,654] Trial 20 pruned. 
+[I 2025-08-11 21:40:08,180] Trial 21 finished with value: 0.09351185015020576 and parameters: {'lr': 0.001, 'weight_decay': 1e-06, 'dropout': 0.1, 'hidden_channels': 192, 'num_layers': 5, 'batch_size': 64, 'epochs': 240}. Best is trial 16 with value: 0.08823236149847585.
+[I 2025-08-11 22:03:01,552] Trial 22 finished with value: 0.09332375684938962 and parameters: {'lr': 0.001, 'weight_decay': 1e-06, 'dropout': 0.1, 'hidden_channels': 192, 'num_layers': 5, 'batch_size': 64, 'epochs': 240}. Best is trial 16 with value: 0.08823236149847585.
+[I 2025-08-11 22:05:26,950] Trial 23 pruned. 
+[I 2025-08-11 22:06:15,586] Trial 24 pruned. 
+[I 2025-08-11 22:06:57,796] Trial 25 pruned. 
+[I 2025-08-11 22:09:35,835] Trial 26 pruned. 
+[I 2025-08-11 22:10:13,507] Trial 27 pruned. 
+[I 2025-08-11 22:10:57,501] Trial 28 pruned. 
+[I 2025-08-11 22:11:51,981] Trial 29 pruned. 
+[I 2025-08-11 22:12:30,687] Trial 30 pruned. 
+[I 2025-08-11 22:36:51,738] Trial 31 finished with value: 0.08951823205658879 and parameters: {'lr': 0.001, 'weight_decay': 1e-06, 'dropout': 0.1, 'hidden_channels': 192, 'num_layers': 5, 'batch_size': 64, 'epochs': 240}. Best is trial 16 with value: 0.08823236149847585.
+[I 2025-08-11 22:49:02,385] Trial 32 finished with value: 0.09510051024943872 and parameters: {'lr': 0.001, 'weight_decay': 1e-06, 'dropout': 0.1, 'hidden_channels': 192, 'num_layers': 5, 'batch_size': 64, 'epochs': 240}. Best is trial 16 with value: 0.08823236149847585.
+[I 2025-08-11 22:49:36,786] Trial 33 pruned. 
+[I 2025-08-11 23:01:55,611] Trial 34 pruned. 
+[I 2025-08-11 23:12:19,049] Trial 35 pruned. 
+[I 2025-08-11 23:12:59,192] Trial 36 pruned. 
+[I 2025-08-11 23:13:34,928] Trial 37 pruned. 
+[I 2025-08-11 23:14:08,387] Trial 38 pruned. 
+[I 2025-08-11 23:16:36,616] Trial 39 pruned. 
+[I 2025-08-11 23:17:16,365] Trial 40 pruned. 
+[I 2025-08-11 23:41:20,819] Trial 41 finished with value: 0.09085377722673255 and parameters: {'lr': 0.001, 'weight_decay': 1e-06, 'dropout': 0.1, 'hidden_channels': 192, 'num_layers': 5, 'batch_size': 64, 'epochs': 240}. Best is trial 16 with value: 0.08823236149847585.
+[I 2025-08-11 23:42:58,452] Trial 42 pruned. 
+[I 2025-08-12 00:04:24,774] Trial 43 pruned. 
+[I 2025-08-12 00:05:26,335] Trial 44 pruned. 
+[I 2025-08-12 00:06:02,421] Trial 45 pruned. 
+[I 2025-08-12 00:06:38,268] Trial 46 pruned. 
+[I 2025-08-12 00:07:12,162] Trial 47 pruned. 
+[I 2025-08-12 00:07:48,696] Trial 48 pruned. 
+[I 2025-08-12 00:08:24,835] Trial 49 pruned. 
+Trial done - RMSE_log: 1.2731, RMSE_orig: 0.0726
+Trial done - RMSE_log: 0.1694, RMSE_orig: 0.0071
+Trial done - RMSE_log: 0.1160, RMSE_orig: 0.0045
+Trial done - RMSE_log: 0.0900, RMSE_orig: 0.0034
+Trial done - RMSE_log: 0.1248, RMSE_orig: 0.0050
+Trial done - RMSE_log: 0.1188, RMSE_orig: 0.0047
+Trial done - RMSE_log: 0.1052, RMSE_orig: 0.0040
+Trial done - RMSE_log: 0.0984, RMSE_orig: 0.0038
+Trial done - RMSE_log: 0.0953, RMSE_orig: 0.0038
+Trial done - RMSE_log: 0.0975, RMSE_orig: 0.0039
+Trial done - RMSE_log: 0.0953, RMSE_orig: 0.0036
+Trial done - RMSE_log: 0.0925, RMSE_orig: 0.0034
+Trial done - RMSE_log: 0.1013, RMSE_orig: 0.0037
+Trial done - RMSE_log: 0.0983, RMSE_orig: 0.0035
+
+Best Trial Metrics:
+  MAE (log scale): 0.0693
+  MSE (log scale): 0.0091
+  RMSE (log scale): 0.0953
+  R2  (log scale): 0.9780
+  MAE (original):  0.0021
+  MSE (original):  0.0000
+  RMSE (original): 0.0038
+  R2  (original):  0.9640
+
+Best hyperparameters:
+{'lr': 0.001, 'weight_decay': 1e-06, 'dropout': 0.0, 'hidden_channels': 192, 'num_layers': 5, 'batch_size': 96, 'epochs': 240}
+
+All Completed Trials:
+Trial 0: RMSE_log=0.7871, RMSE_orig=0.0726, Params={'lr': 1e-05, 'weight_decay': 1e-05, 'dropout': 0.30000000000000004, 'hidden_channels': 128, 'num_layers': 5, 'batch_size': 32, 'epochs': 240}
+Trial 1: RMSE_log=0.1668, RMSE_orig=0.0071, Params={'lr': 0.0001, 'weight_decay': 1e-05, 'dropout': 0.30000000000000004, 'hidden_channels': 64, 'num_layers': 4, 'batch_size': 96, 'epochs': 180}
+Trial 2: RMSE_log=0.1159, RMSE_orig=0.0045, Params={'lr': 0.001, 'weight_decay': 1e-05, 'dropout': 0.2, 'hidden_channels': 64, 'num_layers': 6, 'batch_size': 128, 'epochs': 120}
+Trial 3: RMSE_log=0.0888, RMSE_orig=0.0034, Params={'lr': 0.0001, 'weight_decay': 1e-06, 'dropout': 0.1, 'hidden_channels': 128, 'num_layers': 5, 'batch_size': 64, 'epochs': 240}
+Trial 4: RMSE_log=0.1245, RMSE_orig=0.0050, Params={'lr': 0.001, 'weight_decay': 1e-06, 'dropout': 0.5, 'hidden_channels': 192, 'num_layers': 6, 'batch_size': 128, 'epochs': 300}
+Trial 12: RMSE_log=0.1112, RMSE_orig=0.0047, Params={'lr': 0.001, 'weight_decay': 1e-05, 'dropout': 0.1, 'hidden_channels': 64, 'num_layers': 5, 'batch_size': 64, 'epochs': 240}
+Trial 13: RMSE_log=0.1003, RMSE_orig=0.0040, Params={'lr': 0.001, 'weight_decay': 1e-05, 'dropout': 0.1, 'hidden_channels': 128, 'num_layers': 5, 'batch_size': 64, 'epochs': 240}
+Trial 14: RMSE_log=0.0958, RMSE_orig=0.0038, Params={'lr': 0.001, 'weight_decay': 1e-06, 'dropout': 0.1, 'hidden_channels': 192, 'num_layers': 5, 'batch_size': 64, 'epochs': 240}
+Trial 16: RMSE_log=0.0882, RMSE_orig=0.0038, Params={'lr': 0.001, 'weight_decay': 1e-06, 'dropout': 0.0, 'hidden_channels': 192, 'num_layers': 5, 'batch_size': 96, 'epochs': 240}
+Trial 21: RMSE_log=0.0935, RMSE_orig=0.0039, Params={'lr': 0.001, 'weight_decay': 1e-06, 'dropout': 0.1, 'hidden_channels': 192, 'num_layers': 5, 'batch_size': 64, 'epochs': 240}
+Trial 22: RMSE_log=0.0933, RMSE_orig=0.0036, Params={'lr': 0.001, 'weight_decay': 1e-06, 'dropout': 0.1, 'hidden_channels': 192, 'num_layers': 5, 'batch_size': 64, 'epochs': 240}
+Trial 31: RMSE_log=0.0895, RMSE_orig=0.0034, Params={'lr': 0.001, 'weight_decay': 1e-06, 'dropout': 0.1, 'hidden_channels': 192, 'num_layers': 5, 'batch_size': 64, 'epochs': 240}
+Trial 32: RMSE_log=0.0951, RMSE_orig=0.0037, Params={'lr': 0.001, 'weight_decay': 1e-06, 'dropout': 0.1, 'hidden_channels': 192, 'num_layers': 5, 'batch_size': 64, 'epochs': 240}
+Trial 41: RMSE_log=0.0909, RMSE_orig=0.0035, Params={'lr': 0.001, 'weight_decay': 1e-06, 'dropout': 0.1, 'hidden_channels': 192, 'num_layers': 5, 'batch_size': 64, 'epochs': 240}

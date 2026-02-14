@@ -1,0 +1,56 @@
+[I 2025-08-11 15:20:15,523] A new study created in RDB with name: hyperparameter-tune-gemnet
+[I 2025-08-11 16:39:12,305] Trial 0 finished with value: 0.09727949901430143 and parameters: {'lr': 3.1502519933378263e-05, 'weight_decay': 2.1063095306108256e-05, 'dropout': 0.2, 'num_layers': 3, 'hidden_dim': 256, 'batch_size': 64, 'epochs': 180}. Best is trial 0 with value: 0.09727949901430143.
+[I 2025-08-11 19:24:21,675] Trial 1 finished with value: 0.1511408189914089 and parameters: {'lr': 0.0008351100676328545, 'weight_decay': 3.743015672988831e-05, 'dropout': 0.4, 'num_layers': 5, 'hidden_dim': 128, 'batch_size': 96, 'epochs': 300}. Best is trial 0 with value: 0.09727949901430143.
+[I 2025-08-11 20:59:37,697] Trial 2 finished with value: 0.07780742471681315 and parameters: {'lr': 0.00016582683333000976, 'weight_decay': 4.10320800602016e-06, 'dropout': 0.0, 'num_layers': 4, 'hidden_dim': 256, 'batch_size': 128, 'epochs': 240}. Best is trial 2 with value: 0.07780742471681315.
+[I 2025-08-11 22:27:56,653] Trial 3 finished with value: 0.07678812729035774 and parameters: {'lr': 0.0002892757096692699, 'weight_decay': 1.0345825439615751e-05, 'dropout': 0.0, 'num_layers': 4, 'hidden_dim': 128, 'batch_size': 96, 'epochs': 180}. Best is trial 3 with value: 0.07678812729035774.
+[I 2025-08-12 00:00:00,511] Trial 4 finished with value: 0.10200262074048887 and parameters: {'lr': 8.439107923113829e-05, 'weight_decay': 1.1344481490739745e-06, 'dropout': 0.4, 'num_layers': 3, 'hidden_dim': 192, 'batch_size': 96, 'epochs': 240}. Best is trial 3 with value: 0.07678812729035774.
+[I 2025-08-12 00:15:07,892] Trial 5 pruned. 
+[I 2025-08-12 00:29:27,791] Trial 6 pruned. 
+[I 2025-08-12 00:43:41,546] Trial 7 pruned. 
+[I 2025-08-12 00:57:48,268] Trial 8 pruned. 
+[I 2025-08-12 03:41:57,249] Trial 9 finished with value: 0.08386543634555994 and parameters: {'lr': 0.0002443949255275928, 'weight_decay': 2.6676833332327285e-06, 'dropout': 0.2, 'num_layers': 4, 'hidden_dim': 192, 'batch_size': 64, 'epochs': 300}. Best is trial 3 with value: 0.07678812729035774.
+[I 2025-08-12 03:55:58,977] Trial 10 pruned. 
+[I 2025-08-12 04:56:59,958] Trial 11 finished with value: 0.07481976959634602 and parameters: {'lr': 0.00024982005546321046, 'weight_decay': 9.987296055101656e-06, 'dropout': 0.0, 'num_layers': 4, 'hidden_dim': 256, 'batch_size': 128, 'epochs': 180}. Best is trial 11 with value: 0.07481976959634602.
+[I 2025-08-12 05:10:42,886] Trial 12 pruned. 
+[I 2025-08-12 05:24:31,263] Trial 13 pruned. 
+[I 2025-08-12 05:38:04,765] Trial 14 pruned. 
+[I 2025-08-12 05:51:46,134] Trial 15 pruned. 
+[I 2025-08-12 06:32:07,400] Trial 16 finished with value: 0.07551024180439977 and parameters: {'lr': 0.000503160520658085, 'weight_decay': 1.8349963755222471e-06, 'dropout': 0.0, 'num_layers': 3, 'hidden_dim': 256, 'batch_size': 128, 'epochs': 120}. Best is trial 11 with value: 0.07481976959634602.
+[I 2025-08-12 07:10:46,013] Trial 17 finished with value: 0.08558559978284414 and parameters: {'lr': 0.0004903051210549003, 'weight_decay': 1.7194847846082271e-06, 'dropout': 0.1, 'num_layers': 3, 'hidden_dim': 256, 'batch_size': 128, 'epochs': 120}. Best is trial 11 with value: 0.07481976959634602.
+[I 2025-08-12 07:24:24,715] Trial 18 pruned. 
+[I 2025-08-12 07:37:38,575] Trial 19 pruned. 
+[I 2025-08-12 07:50:56,914] Trial 20 pruned. 
+[I 2025-08-12 09:03:40,721] Trial 21 finished with value: 0.0799486870319557 and parameters: {'lr': 0.00033756381424724383, 'weight_decay': 6.466689006956378e-06, 'dropout': 0.0, 'num_layers': 4, 'hidden_dim': 128, 'batch_size': 96, 'epochs': 180}. Best is trial 11 with value: 0.07481976959634602.
+[I 2025-08-12 09:25:29,907] Trial 22 pruned. 
+[I 2025-08-12 09:38:51,403] Trial 23 pruned. 
+[I 2025-08-12 09:52:37,844] Trial 24 pruned. 
+[I 2025-08-12 10:06:18,567] Trial 25 pruned. 
+[I 2025-08-12 10:20:15,887] Trial 26 pruned. 
+[I 2025-08-12 10:33:38,243] Trial 27 pruned. 
+[I 2025-08-12 10:46:57,805] Trial 28 pruned. 
+[I 2025-08-12 11:00:30,979] Trial 29 pruned. 
+[I 2025-08-12 11:14:07,994] Trial 30 pruned. 
+[I 2025-08-12 11:27:53,727] Trial 31 pruned. 
+[I 2025-08-12 11:41:23,730] Trial 32 pruned. 
+[I 2025-08-12 11:54:46,047] Trial 33 pruned. 
+[I 2025-08-12 12:10:50,073] Trial 34 pruned. 
+[I 2025-08-12 12:24:10,699] Trial 35 pruned. 
+[I 2025-08-12 12:40:44,552] Trial 36 pruned. 
+[I 2025-08-12 12:54:04,295] Trial 37 pruned. 
+[I 2025-08-12 13:07:14,174] Trial 38 pruned. 
+[I 2025-08-12 13:20:54,507] Trial 39 pruned. 
+[I 2025-08-12 13:33:44,754] Trial 40 pruned. 
+[I 2025-08-12 13:49:53,977] Trial 41 pruned. 
+[I 2025-08-12 14:14:06,361] Trial 42 pruned. 
+[I 2025-08-12 14:26:59,775] Trial 43 pruned. 
+[I 2025-08-12 16:27:35,379] Trial 44 finished with value: 0.07717960971299727 and parameters: {'lr': 0.0006559036589611586, 'weight_decay': 3.491910026469133e-06, 'dropout': 0.0, 'num_layers': 4, 'hidden_dim': 128, 'batch_size': 64, 'epochs': 240}. Best is trial 11 with value: 0.07481976959634602.
+[I 2025-08-12 16:39:59,236] Trial 45 pruned. 
+[I 2025-08-12 16:56:19,908] Trial 46 pruned. 
+[I 2025-08-12 19:18:29,862] Trial 47 finished with value: 0.07235345786647522 and parameters: {'lr': 0.00044255317973603453, 'weight_decay': 2.052671014292966e-06, 'dropout': 0.0, 'num_layers': 5, 'hidden_dim': 128, 'batch_size': 64, 'epochs': 240}. Best is trial 47 with value: 0.07235345786647522.
+[I 2025-08-12 19:34:17,148] Trial 48 pruned. 
+[I 2025-08-12 19:53:53,585] Trial 49 pruned. 
+
+Best RMSE (log): 0.07235345786647522
+Best Params: {'lr': 0.00044255317973603453, 'weight_decay': 2.052671014292966e-06, 'dropout': 0.0, 'num_layers': 5, 'hidden_dim': 128, 'batch_size': 64, 'epochs': 240}
+Best Metrics (log scale): RMSE: 0.07235345786647522 MAE: 0.04810524359345436 R²: 0.9872459173202515
+Best Metrics (original scale): RMSE: 0.0026690068747570457 MAE: 0.0013807254144921899 R²: 0.9822419285774231

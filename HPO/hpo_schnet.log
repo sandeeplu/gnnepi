@@ -1,0 +1,89 @@
+[I 2025-08-11 15:47:32,468] A new study created in RDB with name: hyperparameter-tune-schnet
+[I 2025-08-11 16:34:42,615] Trial 0 finished with value: 0.09474611080643708 and parameters: {'hidden_channels': 128, 'num_interactions': 4, 'num_gaussians': 100, 'cutoff': 8.2337059912647, 'lr': 0.0001989449348987284, 'weight_decay': 2.565197814123408e-06, 'batch_size': 16, 'epochs': 100}. Best is trial 0 with value: 0.09474611080643708.
+[I 2025-08-11 17:49:02,226] Trial 1 finished with value: 0.1413424983077762 and parameters: {'hidden_channels': 64, 'num_interactions': 3, 'num_gaussians': 50, 'cutoff': 5.787829623415661, 'lr': 1.4064929881190172e-05, 'weight_decay': 2.374481406768678e-05, 'batch_size': 48, 'epochs': 200}. Best is trial 0 with value: 0.09474611080643708.
+[I 2025-08-11 19:03:01,051] Trial 2 finished with value: 0.08078839612172678 and parameters: {'hidden_channels': 256, 'num_interactions': 3, 'num_gaussians': 25, 'cutoff': 9.565641662262564, 'lr': 0.00048476490143777165, 'weight_decay': 1.841694274628705e-06, 'batch_size': 48, 'epochs': 200}. Best is trial 2 with value: 0.08078839612172678.
+[I 2025-08-11 21:03:27,608] Trial 3 finished with value: 0.131542288503042 and parameters: {'hidden_channels': 64, 'num_interactions': 5, 'num_gaussians': 25, 'cutoff': 5.4819096577814825, 'lr': 2.2143908971137835e-05, 'weight_decay': 2.9355633617909536e-05, 'batch_size': 48, 'epochs': 300}. Best is trial 2 with value: 0.08078839612172678.
+[I 2025-08-11 22:12:00,517] Trial 4 finished with value: 0.09694088226101734 and parameters: {'hidden_channels': 128, 'num_interactions': 3, 'num_gaussians': 100, 'cutoff': 10.508548649415095, 'lr': 3.531006845567603e-05, 'weight_decay': 4.312208077182718e-06, 'batch_size': 64, 'epochs': 200}. Best is trial 2 with value: 0.08078839612172678.
+[I 2025-08-11 22:25:18,340] Trial 5 pruned. 
+[I 2025-08-11 23:32:52,305] Trial 6 finished with value: 0.08867107487624223 and parameters: {'hidden_channels': 64, 'num_interactions': 5, 'num_gaussians': 50, 'cutoff': 9.703665178541613, 'lr': 0.0008518397873269571, 'weight_decay': 1.1318026701841628e-06, 'batch_size': 16, 'epochs': 300}. Best is trial 2 with value: 0.08078839612172678.
+[I 2025-08-11 23:45:50,286] Trial 7 pruned. 
+[I 2025-08-11 23:59:37,266] Trial 8 pruned. 
+[I 2025-08-12 00:12:34,226] Trial 9 pruned. 
+[I 2025-08-12 00:25:49,308] Trial 10 pruned. 
+[I 2025-08-12 01:02:22,678] Trial 11 finished with value: 0.09085551984354123 and parameters: {'hidden_channels': 192, 'num_interactions': 6, 'num_gaussians': 25, 'cutoff': 11.800234707287697, 'lr': 0.0009561054176965955, 'weight_decay': 1.0809937056735717e-06, 'batch_size': 32, 'epochs': 200}. Best is trial 2 with value: 0.08078839612172678.
+[I 2025-08-12 02:13:12,026] Trial 12 finished with value: 0.07931992332102272 and parameters: {'hidden_channels': 192, 'num_interactions': 5, 'num_gaussians': 50, 'cutoff': 10.885833722744053, 'lr': 0.0004873261312018326, 'weight_decay': 1.0868638005985231e-06, 'batch_size': 16, 'epochs': 250}. Best is trial 12 with value: 0.07931992332102272.
+[I 2025-08-12 02:25:57,918] Trial 13 pruned. 
+[I 2025-08-12 02:38:47,918] Trial 14 pruned. 
+[I 2025-08-12 02:51:34,292] Trial 15 pruned. 
+[I 2025-08-12 03:04:51,328] Trial 16 pruned. 
+[I 2025-08-12 03:17:36,534] Trial 17 pruned. 
+[I 2025-08-12 03:30:16,221] Trial 18 pruned. 
+[I 2025-08-12 03:42:55,753] Trial 19 pruned. 
+[I 2025-08-12 03:57:12,259] Trial 20 pruned. 
+[I 2025-08-12 04:20:49,603] Trial 21 pruned. 
+[I 2025-08-12 04:44:32,931] Trial 22 pruned. 
+[I 2025-08-12 05:23:05,830] Trial 23 finished with value: 0.07894531465650251 and parameters: {'hidden_channels': 64, 'num_interactions': 5, 'num_gaussians': 50, 'cutoff': 10.274658509816648, 'lr': 0.000713439371962073, 'weight_decay': 1.569439994117488e-06, 'batch_size': 32, 'epochs': 200}. Best is trial 23 with value: 0.07894531465650251.
+[I 2025-08-12 05:35:35,990] Trial 24 pruned. 
+[I 2025-08-12 05:48:01,732] Trial 25 pruned. 
+[I 2025-08-12 06:17:41,320] Trial 26 pruned. 
+[I 2025-08-12 06:30:00,441] Trial 27 pruned. 
+[I 2025-08-12 06:46:58,748] Trial 28 pruned. 
+[I 2025-08-12 06:59:41,055] Trial 29 pruned. 
+[I 2025-08-12 07:12:11,773] Trial 30 pruned. 
+[I 2025-08-12 08:06:17,611] Trial 31 finished with value: 0.08705879601190507 and parameters: {'hidden_channels': 64, 'num_interactions': 5, 'num_gaussians': 50, 'cutoff': 9.5679667856258, 'lr': 0.000993132948186969, 'weight_decay': 1.1459408419757846e-06, 'batch_size': 16, 'epochs': 250}. Best is trial 23 with value: 0.07894531465650251.
+[I 2025-08-12 08:19:00,817] Trial 32 pruned. 
+[I 2025-08-12 08:31:43,758] Trial 33 pruned. 
+[I 2025-08-12 08:44:03,820] Trial 34 pruned. 
+[I 2025-08-12 09:23:39,554] Trial 35 finished with value: 0.08388123444380892 and parameters: {'hidden_channels': 128, 'num_interactions': 4, 'num_gaussians': 50, 'cutoff': 9.453428983244779, 'lr': 0.0004997675273674751, 'weight_decay': 1.4007775934908358e-06, 'batch_size': 16, 'epochs': 200}. Best is trial 23 with value: 0.07894531465650251.
+[I 2025-08-12 09:36:06,775] Trial 36 pruned. 
+[I 2025-08-12 09:48:42,421] Trial 37 pruned. 
+[I 2025-08-12 10:01:15,407] Trial 38 pruned. 
+[I 2025-08-12 10:15:12,624] Trial 39 pruned. 
+[I 2025-08-12 10:27:36,870] Trial 40 pruned. 
+[I 2025-08-12 10:41:32,496] Trial 41 pruned. 
+[I 2025-08-12 10:54:18,679] Trial 42 pruned. 
+[I 2025-08-12 11:41:54,252] Trial 43 finished with value: 0.0874519367280417 and parameters: {'hidden_channels': 64, 'num_interactions': 5, 'num_gaussians': 50, 'cutoff': 9.421373799214994, 'lr': 0.0009680978783216553, 'weight_decay': 1.3572655385835333e-06, 'batch_size': 16, 'epochs': 250}. Best is trial 23 with value: 0.07894531465650251.
+[I 2025-08-12 11:54:45,081] Trial 44 pruned. 
+[I 2025-08-12 12:07:14,640] Trial 45 pruned. 
+[I 2025-08-12 12:20:04,825] Trial 46 pruned. 
+[I 2025-08-12 12:32:24,068] Trial 47 pruned. 
+[I 2025-08-12 12:44:52,849] Trial 48 pruned. 
+[I 2025-08-12 12:59:16,911] Trial 49 pruned. 
+Trial RMSE (log): 0.0947, RMSE (orig): 0.0045, MAE (log): 0.0872, MAE (orig): 0.0027, R2 (log): 0.9682, R2 (orig): 0.9496
+Trial RMSE (log): 0.1413, RMSE (orig): 0.0059, MAE (log): 0.1141, MAE (orig): 0.0035, R2 (log): 0.9443, R2 (orig): 0.9143
+Trial RMSE (log): 0.0808, RMSE (orig): 0.0031, MAE (log): 0.0574, MAE (orig): 0.0017, R2 (log): 0.9839, R2 (orig): 0.9775
+Trial RMSE (log): 0.1315, RMSE (orig): 0.0057, MAE (log): 0.1004, MAE (orig): 0.0031, R2 (log): 0.9542, R2 (orig): 0.9200
+Trial RMSE (log): 0.0969, RMSE (orig): 0.0039, MAE (log): 0.0746, MAE (orig): 0.0021, R2 (log): 0.9739, R2 (orig): 0.9630
+Trial RMSE (log): 0.0887, RMSE (orig): 0.0033, MAE (log): 0.0668, MAE (orig): 0.0019, R2 (log): 0.9786, R2 (orig): 0.9731
+Trial RMSE (log): 0.0909, RMSE (orig): 0.0035, MAE (log): 0.0684, MAE (orig): 0.0020, R2 (log): 0.9790, R2 (orig): 0.9694
+Trial RMSE (log): 0.0793, RMSE (orig): 0.0033, MAE (log): 0.0588, MAE (orig): 0.0017, R2 (log): 0.9832, R2 (orig): 0.9735
+Trial RMSE (log): 0.0789, RMSE (orig): 0.0029, MAE (log): 0.0579, MAE (orig): 0.0017, R2 (log): 0.9839, R2 (orig): 0.9798
+Trial RMSE (log): 0.0871, RMSE (orig): 0.0033, MAE (log): 0.0659, MAE (orig): 0.0019, R2 (log): 0.9792, R2 (orig): 0.9728
+Trial RMSE (log): 0.0839, RMSE (orig): 0.0035, MAE (log): 0.0621, MAE (orig): 0.0019, R2 (log): 0.9814, R2 (orig): 0.9695
+Trial RMSE (log): 0.0875, RMSE (orig): 0.0035, MAE (log): 0.0674, MAE (orig): 0.0019, R2 (log): 0.9780, R2 (orig): 0.9696
+Optimization Duration: 76304.82 seconds
+Best RMSE (log scale): 0.07894531465650251
+Best Params: {'hidden_channels': 64, 'num_interactions': 5, 'num_gaussians': 50, 'cutoff': 10.274658509816648, 'lr': 0.000713439371962073, 'weight_decay': 1.569439994117488e-06, 'batch_size': 32, 'epochs': 200}
+
+Best Trial Metrics:
+  MAE (log): 0.0579
+  MSE (log): 0.0066
+  R2  (log): 0.9839
+  MAE (orig): 0.0017
+  MSE (orig): 0.0000
+  RMSE(orig): 0.0029
+  R2  (orig): 0.9798
+
+=== Completed Trials Summary ===
+Trial 0: RMSE_log=0.0947, RMSE_orig=0.0045, Params={'hidden_channels': 128, 'num_interactions': 4, 'num_gaussians': 100, 'cutoff': 8.2337059912647, 'lr': 0.0001989449348987284, 'weight_decay': 2.565197814123408e-06, 'batch_size': 16, 'epochs': 100}
+Trial 1: RMSE_log=0.1413, RMSE_orig=0.0059, Params={'hidden_channels': 64, 'num_interactions': 3, 'num_gaussians': 50, 'cutoff': 5.787829623415661, 'lr': 1.4064929881190172e-05, 'weight_decay': 2.374481406768678e-05, 'batch_size': 48, 'epochs': 200}
+Trial 2: RMSE_log=0.0808, RMSE_orig=0.0031, Params={'hidden_channels': 256, 'num_interactions': 3, 'num_gaussians': 25, 'cutoff': 9.565641662262564, 'lr': 0.00048476490143777165, 'weight_decay': 1.841694274628705e-06, 'batch_size': 48, 'epochs': 200}
+Trial 3: RMSE_log=0.1315, RMSE_orig=0.0057, Params={'hidden_channels': 64, 'num_interactions': 5, 'num_gaussians': 25, 'cutoff': 5.4819096577814825, 'lr': 2.2143908971137835e-05, 'weight_decay': 2.9355633617909536e-05, 'batch_size': 48, 'epochs': 300}
+Trial 4: RMSE_log=0.0969, RMSE_orig=0.0039, Params={'hidden_channels': 128, 'num_interactions': 3, 'num_gaussians': 100, 'cutoff': 10.508548649415095, 'lr': 3.531006845567603e-05, 'weight_decay': 4.312208077182718e-06, 'batch_size': 64, 'epochs': 200}
+Trial 6: RMSE_log=0.0887, RMSE_orig=0.0033, Params={'hidden_channels': 64, 'num_interactions': 5, 'num_gaussians': 50, 'cutoff': 9.703665178541613, 'lr': 0.0008518397873269571, 'weight_decay': 1.1318026701841628e-06, 'batch_size': 16, 'epochs': 300}
+Trial 11: RMSE_log=0.0909, RMSE_orig=0.0035, Params={'hidden_channels': 192, 'num_interactions': 6, 'num_gaussians': 25, 'cutoff': 11.800234707287697, 'lr': 0.0009561054176965955, 'weight_decay': 1.0809937056735717e-06, 'batch_size': 32, 'epochs': 200}
+Trial 12: RMSE_log=0.0793, RMSE_orig=0.0033, Params={'hidden_channels': 192, 'num_interactions': 5, 'num_gaussians': 50, 'cutoff': 10.885833722744053, 'lr': 0.0004873261312018326, 'weight_decay': 1.0868638005985231e-06, 'batch_size': 16, 'epochs': 250}
+Trial 23: RMSE_log=0.0789, RMSE_orig=0.0029, Params={'hidden_channels': 64, 'num_interactions': 5, 'num_gaussians': 50, 'cutoff': 10.274658509816648, 'lr': 0.000713439371962073, 'weight_decay': 1.569439994117488e-06, 'batch_size': 32, 'epochs': 200}
+Trial 31: RMSE_log=0.0871, RMSE_orig=0.0033, Params={'hidden_channels': 64, 'num_interactions': 5, 'num_gaussians': 50, 'cutoff': 9.5679667856258, 'lr': 0.000993132948186969, 'weight_decay': 1.1459408419757846e-06, 'batch_size': 16, 'epochs': 250}
+Trial 35: RMSE_log=0.0839, RMSE_orig=0.0035, Params={'hidden_channels': 128, 'num_interactions': 4, 'num_gaussians': 50, 'cutoff': 9.453428983244779, 'lr': 0.0004997675273674751, 'weight_decay': 1.4007775934908358e-06, 'batch_size': 16, 'epochs': 200}
+Trial 43: RMSE_log=0.0875, RMSE_orig=0.0035, Params={'hidden_channels': 64, 'num_interactions': 5, 'num_gaussians': 50, 'cutoff': 9.421373799214994, 'lr': 0.0009680978783216553, 'weight_decay': 1.3572655385835333e-06, 'batch_size': 16, 'epochs': 250}
